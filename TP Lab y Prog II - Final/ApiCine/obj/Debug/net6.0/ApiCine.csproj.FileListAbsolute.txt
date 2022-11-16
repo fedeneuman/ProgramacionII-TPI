@@ -1,0 +1,460 @@
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\bin\Debug\net6.0\DataApi.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\bin\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\DataApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\bin\Debug\net6.0\DataApi.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\bin\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.json
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.exe
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.pdb
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets\msbuild.ApiCine.Microsoft.AspNetCore.StaticWebAssets.props
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiCine.props
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiCine.props
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiCine.props
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.pack.json
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.pdb
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.pdb
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\appsettings.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.exe
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.deps.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.runtimeconfig.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\ApiCine.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\bin\Debug\net6.0\DataApi.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.AssemblyReference.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfoInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.AssemblyInfo.cs
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CoreCompileInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\scopedcss\bundle\ApiCine.styles.css
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.csproj.CopyComplete
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\refint\ApiCine.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ApiCine.genruntimeconfig.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ApiCine\obj\Debug\net6.0\ref\ApiCine.dll

@@ -1,0 +1,689 @@
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\Reportes.exe
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\Reportes.pdb
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\stdole.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\obj\Debug\Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\obj\Debug\Reportes.Reporte.resources
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\obj\Debug\Reportes.exe
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\obj\Debug\Reportes.FrmRptClientes.resources
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\obj\Debug\Reportes.FrmRptComprobante.resources
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\obj\Debug\Reportes.FrmRptVentasxVendedor.resources
+C:\Users\Gabriela\Downloads\TP II\TP Lab y Prog II--\Reportes\obj\Debug\Reportes.FrmPreciosActualizados.resources
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\Reportes.exe
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\Reportes.pdb
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\stdole.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\obj\Debug\Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\obj\Debug\Reportes.FrmPreciosActualizados.resources
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\obj\Debug\Reportes.FrmRptClientes.resources
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\obj\Debug\Reportes.FrmRptComprobante.resources
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\obj\Debug\Reportes.FrmRptVentasxVendedor.resources
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\obj\Debug\Reportes.Reporte.resources
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\obj\Debug\Reportes.exe
+C:\Users\Gabriela\Desktop\Prueba TP\TP Lab y Prog II - Con reportes\Reportes\obj\Debug\Reportes.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\stdole.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\System.Data.SqlClient.xml
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmPreciosActualizados.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptClientes.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptComprobante.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptVentasxVendedor.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Reporte.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\stdole.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\System.Data.SqlClient.xml
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmPreciosActualizados.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptClientes.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptComprobante.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptVentasxVendedor.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Reporte.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.exe
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.pdb
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\stdole.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmPreciosActualizados.resources
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptClientes.resources
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptComprobante.resources
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptVentasxVendedor.resources
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Reporte.resources
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.exe
+C:\Users\Gabriela\Desktop\TP- final Nacho\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\stdole.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\System.Data.SqlClient.xml
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmPreciosActualizados.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptClientes.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptComprobante.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptVentasxVendedor.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Reporte.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\Reportes.exe
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\Reportes.pdb
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\stdole.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\obj\Debug\Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\obj\Debug\Reportes.FrmPreciosActualizados.resources
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\obj\Debug\Reportes.FrmRptClientes.resources
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\obj\Debug\Reportes.FrmRptComprobante.resources
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\obj\Debug\Reportes.FrmRptVentasxVendedor.resources
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\obj\Debug\Reportes.Reporte.resources
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\obj\Debug\Reportes.exe
+C:\Users\Gabriela\Desktop\TP II (1)\Final\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\stdole.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmPreciosActualizados.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptClientes.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptComprobante.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptVentasxVendedor.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Reporte.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.exe
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.pdb
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.pdb
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\stdole.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\System.Data.SqlClient.xml
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmPreciosActualizados.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptClientes.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptComprobante.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptVentasxVendedor.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Reporte.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.exe
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.exe
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Reportes.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\EnvDTE.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\stdole.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\System.Data.SqlClient.xml
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmPreciosActualizados.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptClientes.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptComprobante.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.FrmRptVentasxVendedor.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.Reporte.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.GenerateResource.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.exe
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\Reportes\obj\Debug\Reportes.pdb

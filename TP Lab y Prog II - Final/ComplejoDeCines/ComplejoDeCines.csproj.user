@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Presentacion\AcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\CargaVarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Cine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Comprobante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\FuncionXPeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Pelicula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Persona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\ReporteButacas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\ReporteClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\ReporteComprobante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\ReportePeliculas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\ReporteVendedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\SalaButaca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

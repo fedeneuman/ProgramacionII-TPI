@@ -1,0 +1,1034 @@
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll.config
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.runtimeconfig.json
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CopyComplete
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\refint\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.genruntimeconfig.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ref\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Admin.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.CargaVarios.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Cine.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Comprobante.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.FuncionXPeli.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Home.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Login.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Pelicula.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Persona.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.SalaButaca.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.exe
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll.config
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.deps.json
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.runtimeconfig.json
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Admin.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.CargaVarios.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Cine.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Comprobante.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.FuncionXPeli.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Home.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Login.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Pelicula.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Persona.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.SalaButaca.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfo.cs
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CopyComplete
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\refint\ComplejoDeCines.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.genruntimeconfig.cache
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ref\ComplejoDeCines.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteClientes.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteButacas.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteComprobante.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReportePeliculas.resources
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteVendedores.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll.config
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.runtimeconfig.json
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Admin.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.CargaVarios.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Cine.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Comprobante.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.FuncionXPeli.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Home.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Login.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Pelicula.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Persona.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteButacas.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteClientes.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteComprobante.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReportePeliculas.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteVendedores.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.SalaButaca.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CopyComplete
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\refint\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.genruntimeconfig.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\ComplejoDeCines\obj\Debug\net6.0-windows\ref\ComplejoDeCines.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.exe
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll.config
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.deps.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.runtimeconfig.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Admin.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.CargaVarios.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Cine.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Comprobante.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.FuncionXPeli.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Home.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Login.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Pelicula.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Persona.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteButacas.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteClientes.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteComprobante.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReportePeliculas.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteVendedores.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.SalaButaca.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfo.cs
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\refint\ComplejoDeCines.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.genruntimeconfig.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ref\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll.config
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.runtimeconfig.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Admin.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.CargaVarios.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Cine.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Comprobante.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.FuncionXPeli.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Home.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Login.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Pelicula.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Persona.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteButacas.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteClientes.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteComprobante.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReportePeliculas.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteVendedores.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.SalaButaca.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CopyComplete
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\refint\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.genruntimeconfig.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\obj\Debug\net6.0-windows\ref\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe.config
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.exe
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll.config
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.deps.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.runtimeconfig.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe.config
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Admin.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.CargaVarios.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Cine.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Comprobante.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.FuncionXPeli.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Home.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Login.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Pelicula.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Persona.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteButacas.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteClientes.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteComprobante.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReportePeliculas.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteVendedores.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.SalaButaca.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfo.cs
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CopyComplete
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\refint\ComplejoDeCines.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.genruntimeconfig.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ref\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Admin.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.CargaVarios.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Cine.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Comprobante.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.FuncionXPeli.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Home.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Login.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Pelicula.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Persona.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteButacas.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteClientes.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteComprobante.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReportePeliculas.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteVendedores.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.SalaButaca.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\refint\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll.config
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.runtimeconfig.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe.config
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CopyComplete
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.genruntimeconfig.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ref\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll.config
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.runtimeconfig.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe.config
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Admin.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.CargaVarios.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Cine.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Comprobante.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.FuncionXPeli.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Home.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Login.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Pelicula.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Persona.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteButacas.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteClientes.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteComprobante.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReportePeliculas.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteVendedores.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.SalaButaca.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CopyComplete
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\refint\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.genruntimeconfig.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ref\ComplejoDeCines.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.AcercaDe.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.AcercaDe.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.exe
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll.config
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.deps.json
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.runtimeconfig.json
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.pdb
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.pdb
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe.config
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.pdb
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.AcercaDe.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Admin.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.CargaVarios.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Cine.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Comprobante.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.FuncionXPeli.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Home.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Login.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Pelicula.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Persona.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteButacas.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteClientes.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteComprobante.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReportePeliculas.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteVendedores.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.SalaButaca.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Properties.Resources.resources
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfo.cs
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CopyComplete
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\refint\ComplejoDeCines.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.pdb
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.genruntimeconfig.cache
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ref\ComplejoDeCines.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.AcercaDe.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Admin.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.CargaVarios.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Cine.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Comprobante.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.FuncionXPeli.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Home.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Login.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Pelicula.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Persona.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteButacas.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteClientes.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteComprobante.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReportePeliculas.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteVendedores.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.SalaButaca.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfo.cs
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\refint\ComplejoDeCines.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.exe
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll.config
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.deps.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.runtimeconfig.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe.config
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.genruntimeconfig.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ref\ComplejoDeCines.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.exe
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll.config
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.deps.json
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.runtimeconfig.json
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.pdb
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe.config
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.pdb
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.AcercaDe.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Admin.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.CargaVarios.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Cine.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Comprobante.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.FuncionXPeli.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Home.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Login.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Pelicula.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Persona.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteButacas.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteClientes.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteComprobante.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReportePeliculas.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteVendedores.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.SalaButaca.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Properties.Resources.resources
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfo.cs
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\refint\ComplejoDeCines.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.genruntimeconfig.cache
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ref\ComplejoDeCines.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.exe
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll.config
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.deps.json
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.runtimeconfig.json
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.pdb
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe.config
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.pdb
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.AcercaDe.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Admin.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.CargaVarios.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Cine.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Comprobante.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.FuncionXPeli.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Home.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Login.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Pelicula.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Persona.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteButacas.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteClientes.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteComprobante.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReportePeliculas.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteVendedores.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.SalaButaca.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Properties.Resources.resources
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfo.cs
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CopyComplete
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\refint\ComplejoDeCines.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.genruntimeconfig.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ref\ComplejoDeCines.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.exe
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll.config
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.deps.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.runtimeconfig.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\Reportes.exe.config
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\bin\Debug\net6.0-windows\DataApi.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.AcercaDe.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Admin.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.CargaVarios.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Cine.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Comprobante.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.FuncionXPeli.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Home.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Login.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Pelicula.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.Persona.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteButacas.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteClientes.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteComprobante.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReportePeliculas.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.ReporteVendedores.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Presentacion.SalaButaca.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.Properties.Resources.resources
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.AssemblyInfo.cs
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.csproj.CopyComplete
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\refint\ComplejoDeCines.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ComplejoDeCines.genruntimeconfig.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\ComplejoDeCines\obj\Debug\net6.0-windows\ref\ComplejoDeCines.dll

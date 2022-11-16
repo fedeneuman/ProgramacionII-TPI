@@ -1,0 +1,111 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fede2\\OneDrive\\Escritorio\\TP Lab y Prog II - Final\\TP Lab y Prog II - Final\\ComplejoDeCines\\ComplejoDeCines.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fede2\\OneDrive\\Escritorio\\TP Lab y Prog II - Final\\TP Lab y Prog II - Final\\ComplejoDeCines\\ComplejoDeCines.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fede2\\OneDrive\\Escritorio\\TP Lab y Prog II - Final\\TP Lab y Prog II - Final\\ComplejoDeCines\\ComplejoDeCines.csproj",
+        "projectName": "ComplejoDeCines",
+        "projectPath": "C:\\Users\\fede2\\OneDrive\\Escritorio\\TP Lab y Prog II - Final\\TP Lab y Prog II - Final\\ComplejoDeCines\\ComplejoDeCines.csproj",
+        "packagesPath": "C:\\Users\\fede2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fede2\\OneDrive\\Escritorio\\TP Lab y Prog II - Final\\TP Lab y Prog II - Final\\ComplejoDeCines\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fede2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\fede2\\OneDrive\\Escritorio\\TP Lab y Prog II - Final\\TP Lab y Prog II - Final\\Reportes\\Reportes.csproj": {
+                "projectPath": "C:\\Users\\fede2\\OneDrive\\Escritorio\\TP Lab y Prog II - Final\\TP Lab y Prog II - Final\\Reportes\\Reportes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Bcl.AsyncInterfaces": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Newtonsoft.Json.Bson": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "ReportViewerCore.WinForms": {
+              "target": "Package",
+              "version": "[15.1.17, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fede2\\OneDrive\\Escritorio\\TP Lab y Prog II - Final\\TP Lab y Prog II - Final\\Reportes\\Reportes.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fede2\\OneDrive\\Escritorio\\TP Lab y Prog II - Final\\TP Lab y Prog II - Final\\Reportes\\Reportes.csproj",
+        "projectName": "Reportes",
+        "projectPath": "C:\\Users\\fede2\\OneDrive\\Escritorio\\TP Lab y Prog II - Final\\TP Lab y Prog II - Final\\Reportes\\Reportes.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

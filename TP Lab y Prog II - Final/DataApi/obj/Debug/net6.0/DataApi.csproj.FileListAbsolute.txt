@@ -1,0 +1,156 @@
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\bin\Debug\net6.0\DataApi.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\bin\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\bin\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\refint\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\ref\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\bin\Debug\net6.0\DataApi.deps.json
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\bin\Debug\net6.0\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\bin\Debug\net6.0\DataApi.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.csproj.AssemblyReference.cache
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfoInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfo.cs
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\refint\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\DataApi.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP II\TP Lab y Prog II--\DataApi\obj\Debug\net6.0\ref\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\DataApi\bin\Debug\net6.0\DataApi.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\DataApi\bin\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\DataApi\bin\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\DataApi\obj\Debug\net6.0\DataApi.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\DataApi\obj\Debug\net6.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\DataApi\obj\Debug\net6.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\DataApi\obj\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\DataApi\obj\Debug\net6.0\refint\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\DataApi\obj\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\6-11-22\TP Lab y Prog II\DataApi\obj\Debug\net6.0\ref\DataApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\DataApi\bin\Debug\net6.0\DataApi.deps.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\DataApi\bin\Debug\net6.0\DataApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\DataApi\bin\Debug\net6.0\DataApi.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\DataApi\obj\Debug\net6.0\DataApi.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\DataApi\obj\Debug\net6.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfoInputs.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfo.cs
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\DataApi\obj\Debug\net6.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\DataApi\obj\Debug\net6.0\DataApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\DataApi\obj\Debug\net6.0\refint\DataApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\DataApi\obj\Debug\net6.0\DataApi.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - sin reportes\DataApi\obj\Debug\net6.0\ref\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\DataApi\bin\Debug\net6.0\DataApi.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\DataApi\bin\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\DataApi\bin\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\DataApi\obj\Debug\net6.0\DataApi.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\DataApi\obj\Debug\net6.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\DataApi\obj\Debug\net6.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\DataApi\obj\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\DataApi\obj\Debug\net6.0\refint\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\DataApi\obj\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Con reportes\DataApi\obj\Debug\net6.0\ref\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.deps.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.AssemblyReference.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfoInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfo.cs
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\refint\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\ref\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\refint\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Extras\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\ref\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.deps.json
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\refint\DataApi.dll
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.pdb
+C:\Users\prado\OneDrive\Escritorio\TP II\Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\ref\DataApi.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.deps.json
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.pdb
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.AssemblyReference.cache
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfoInputs.cache
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfo.cs
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.CoreCompileInputs.cache
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\refint\DataApi.dll
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.pdb
+I:\Mi unidad\TUP\Lab. Computacion\TPI\ComplejoCines\ORIGINAL\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\ref\DataApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.deps.json
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfoInputs.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfo.cs
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\refint\DataApi.dll
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.pdb
+C:\Users\Gabriela\Desktop\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\ref\DataApi.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.deps.json
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.pdb
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.AssemblyReference.cache
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfoInputs.cache
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfo.cs
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\refint\DataApi.dll
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.pdb
+C:\Users\Gabriela\Desktop\Nueva carpeta (3)\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\ref\DataApi.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.deps.json
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.pdb
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.AssemblyReference.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfoInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfo.cs
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\refint\DataApi.dll
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.pdb
+C:\Users\juanp\OneDrive\Escritorio\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\ref\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.deps.json
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\DataApi\bin\Debug\net6.0\DataApi.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.AssemblyReference.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfoInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.AssemblyInfo.cs
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.csproj.CoreCompileInputs.cache
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\refint\DataApi.dll
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\DataApi.pdb
+C:\Users\fede2\OneDrive\Escritorio\TP Lab y Prog II - Final\TP Lab y Prog II - Final\DataApi\obj\Debug\net6.0\ref\DataApi.dll

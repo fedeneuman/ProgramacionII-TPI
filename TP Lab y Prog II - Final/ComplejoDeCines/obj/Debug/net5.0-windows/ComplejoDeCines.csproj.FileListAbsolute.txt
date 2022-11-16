@@ -1,0 +1,17 @@
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\ComplejoDeCines.csproj.AssemblyReference.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\TP_front_.Admin.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\TP_front_.CargaVarios.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\TP_front_.Cine.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\TP_front_.Comprobante.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\ComplejoDeCines.Presentacion.Comprobante1.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\TP_front_.FuncionXPeli.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\TP_front_.Home.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\TP_front_.Login.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\TP_front_.Pelicula.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\TP_front_.Persona.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\TP_front_.SalaButaca.resources
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\ComplejoDeCines.csproj.GenerateResource.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\ComplejoDeCines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\ComplejoDeCines.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\ComplejoDeCines.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Escritorio\TP II\TP Lab y Prog II--\ComplejoDeCines\obj\Debug\net5.0-windows\ComplejoDeCines.csproj.CoreCompileInputs.cache
